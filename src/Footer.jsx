@@ -20,10 +20,10 @@ export default function Footer() {
       </div>
       <div className='text-black justify-center items-center flex flex-col'>
       <div className='flex gap-7 mt-2'>
-        <p className='text-3'>Privacy</p>
-        <p className='text-3'>Terms</p>
-        <p className='text-3'>FAQs</p>
-        <p className='text-3'>Help</p>
+        <p className='text-3 text-black dark:text-black'>Privacy</p>
+        <p className='text-3 text-black dark:text-black'>Terms</p>
+        <p className='text-3 text-black dark:text-black'>FAQs</p>
+        <p className='text-3 text-black dark:text-black'>Help</p>
       </div>
       <div className='flex mt-2 mb-10'>
           <p className='sm:text-3 text-2'>&copy; All Right Reserved Designed by Mayortech</p>

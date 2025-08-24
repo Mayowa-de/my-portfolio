@@ -20,10 +20,10 @@ export default function Portfolio() {
         <div className='max-w-[100%] flex flex-col mb-10'>
       <p className='text-gray-500 w-full md:text-xl  md:text-left p-4 mb-5'>Full-stack e-commerce solution with payment integration, inventory management, and admin dashboard</p>
       <div className='grid grid-cols-3 justify-center items-center gap-2  max-w-2xl px-4 mr-8 dark:text-black'>
-      <div className='bg-slate-300 rounded-md px-2 w-xl h-[25px] text-center text-2'>React</div>
-      <div className='bg-slate-300 rounded-md px-2 max-w-xl h-[25px]  text-center text-2'>Node.js</div>
-      <div className='bg-slate-300 rounded-md px-2 sm:w-xl w-[110px] h-[25px] text-center text-2'>PostgreSQL</div>
-      <div className='bg-slate-300 rounded-md px-2 w-xl h-[25px] text-center text-2'>Stripe</div>
+      <div className='bg-slate-300 rounded-md px-2 w-xl h-[25px] text-center text-2 text-black dark:text-black'>React</div>
+      <div className='bg-slate-300 rounded-md px-2 max-w-xl h-[25px]  text-center text-2 text-black dark:text-black'>Node.js</div>
+      <div className='bg-slate-300 rounded-md px-2 sm:w-xl w-[110px] h-[25px] text-center text-2 text-black dark:text-black'>PostgreSQL</div>
+      <div className='bg-slate-300 rounded-md px-2 w-xl h-[25px] text-center text-2 text-black dark:text-black'>Stripe</div>
       </div>
       </div>
       </div>
@@ -39,10 +39,10 @@ export default function Portfolio() {
         <div className='flex flex-col px-4 max-w-[100%] mb-10'>
       <p className='text-gray-500 p-2 w-full md:text-xl mb-5 md:text-left'>FullStack Blog Platform bringing trending and fun story on Tech and Travel</p>
       <div className='grid grid-cols-3 justify-center items-center gap-2 px-4 max-w-2xs dark:text-black'>
-      <div className='bg-slate-300 rounded-md px-2 w-xl h-[25px] text-center text-2'>React</div>
-      <div className='bg-slate-300 rounded-md px-2 w-xl h-[25px] text-center text-2'>Django</div>
-      <div className='bg-slate-300 rounded-md px-2 w-xl h-[25px] text-center text-2'>MySQL</div>
-      <div className='bg-slate-300 rounded-md px-2 w-xl h-[25px] text-center text-2'>Stripe</div>
+      <div className='bg-slate-300 rounded-md px-2 w-xl h-[25px] text-center text-2 text-black dark:text-black'>React</div>
+      <div className='bg-slate-300 rounded-md px-2 w-xl h-[25px] text-center text-2 text-black dark:text-black'>Django</div>
+      <div className='bg-slate-300 rounded-md px-2 w-xl h-[25px] text-center text-2 text-black dark:text-black'>MySQL</div>
+      <div className='bg-slate-300 rounded-md px-2 w-xl h-[25px] text-center text-2 text-black dark:text-black'>Stripe</div>
       </div>
       </div>
       </div>
@@ -58,10 +58,10 @@ export default function Portfolio() {
         <div className='flex flex-col gap-2 px-2 mb-10'>
       <p className='text-gray-500 w-full p-2 md:text-xl mb-5 md:text-left'>Collaborative task management tool with real time updates, team collaboration, and progress tracking</p>
       <div className='grid grid-cols-3 justify-center items-center gap-2 px-4 mr-8  max-w-2xs dark:text-black'>
-      <div className='bg-slate-300 rounded-md px-2 w-xl h-[25px] text-center text-2'>Nextjs</div>
-      <div className='bg-slate-300 rounded-md px-2 w-xl h-[25px] text-center text-2'>Django</div>
-      <div className='bg-slate-300 rounded-md px-2 w-[110px] sm:w-xl h-[25px] text-center text-2'>GraphQL</div>
-      <div className='bg-slate-300 rounded-md px-2 sm:w-xl w-[110px] h-[25px] text-center text-2'>Socket.io</div>
+      <div className='bg-slate-300 rounded-md px-2 w-xl h-[25px] text-center text-2 text-black dark:text-black'>Nextjs</div>
+      <div className='bg-slate-300 rounded-md px-2 w-xl h-[25px] text-center text-2 text-black dark:text-black'>Django</div>
+      <div className='bg-slate-300 rounded-md px-2 w-[110px] sm:w-xl h-[25px] text-center text-2 text-black dark:text-black'>GraphQL</div>
+      <div className='bg-slate-300 rounded-md px-2 sm:w-xl w-[110px] h-[25px] text-center text-2 text-black dark:text-black'>Socket.io</div>
       </div>
       </div>
       </div>
