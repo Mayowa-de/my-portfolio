@@ -1,13 +1,13 @@
 import React from 'react'
 import './Loop.css'
-import Image1 from '../assets/Htmlogo.jpeg'
-import Image2 from '../assets/Jslogo.jpeg'
-import Image3 from '../assets/python logo.jpeg'
-import Image4 from '../assets/MySQL.jpeg'
-import Image5 from '../assets/mongoLogo.jpeg'
-import Image6 from '../assets/reactLogo.jpeg'
-import Image7 from '../assets/bootstrapLogo.jpg'
-import Image8 from '../assets/cssLogo.jpeg'
+import Image1 from '../assets/Logo6.png'
+import Image2 from '../assets/Logo7.png'
+import Image3 from '../assets/jslogo.jpeg'
+import Image4 from '../assets/Logo3.png'
+import Image5 from '../assets/Logo5.png'
+import Image6 from '../assets/Logo4.png'
+import Image7 from '../assets/Logo1.png'
+import Image8 from '../assets/Logo2.png'
 export default function Loop() {
         const images=[
           Image1,
@@ -18,7 +18,7 @@ export default function Loop() {
 // duplicate images for seamless looping
 const doubleImages= [...images, ...images]
   return (
-    <div className='overflow-hidden py-4  max-w-full md:w-full flex lg:ml-96'>
+    <div className='overflow-hidden py-4  max-w-full md:w-full lg:w-[60%] flex lg:ml-96'>
       <div className='flex animate-slide gap-2  md:items-end '>
       {doubleImages.map((src, index)=>(
         <img
